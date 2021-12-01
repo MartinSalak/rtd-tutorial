@@ -12,8 +12,9 @@ these are images by themselves
 
 this is html
 
- <p><img src="../docs/assets/1_scia.png" alt="1"></p><p>SCIA</p>
+<p><img src="../docs/assets/1_scia.png" alt="1"></p><p>SCIA</p>
 
+<img src="assets/1_scia.png" width="200" height="200" />
 
 ### Markdown
 

@@ -14,9 +14,11 @@ Table of contents:
   notes
   images
 
+
 .. toctree::
   :caption: Texts
   :maxdepth: 3
 
   text/text1
+  notes
 
