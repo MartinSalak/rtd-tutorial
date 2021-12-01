@@ -8,10 +8,15 @@ Table of contents:
 **********************
 
 .. toctree::
-  :caption: Getting started
+  :caption: Overview
   :maxdepth: 3
 
   notes
   images
-  docs/text/text1
+
+.. toctree::
+  :caption: Texts
+  :maxdepth: 3
+
+  text/text1
 
