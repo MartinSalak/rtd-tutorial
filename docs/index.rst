@@ -13,5 +13,5 @@ Table of contents:
 
   notes
   images
-  text/text1
+  docs/text/text1
 
