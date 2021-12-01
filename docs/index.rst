@@ -9,8 +9,8 @@ Table of contents:
 
 .. toctree::
   :caption: Getting started
-  :maxdepth: 1
+  :maxdepth: 3
 
   notes
-
-  
+  images
+  text/text1
