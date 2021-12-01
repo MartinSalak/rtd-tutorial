@@ -25,7 +25,7 @@ this is markdown
 
 ## images in tables
 
-| ![SCIA](/assets/1_scia.png)<br>scia |  ![SCIA](../docs/assets/1_scia.png)scia |  bbb |
+| ![SCIA](/assets/1_scia.png)<br>scia |  ![SCIA](assets/1_scia.png)scia |  bbb |
 |:----:|:----:|:----:|
 | ![SCIA](../docs/assets/1_scia.png)<br>SCIA |  img |  img |
 | ![SCIA](../docs/assets/1_scia.png "SCIA") | asdf | asdf |
