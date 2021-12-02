@@ -25,3 +25,48 @@ Box made with Triple Backticks
 
 
 <div style="background-color:SkyBlue;color:white;padding:2%;">White text, blue background.</div>
+
+
+
+:::{tip}
+
+tip
+
+:::
+
+:::{warning}
+
+warning
+
+:::
+
+
+:::{hint}
+
+hint
+
+:::
+
+```{admonition} Version
+Current version 2.1.0
+```
+
+```{tip} Version
+Current version 2.1.0
+```
+
+
+```{warning} Version
+Current version 2.1.0
+```
+
+```{hint} Version
+Current version 2.1.0
+```
+
+
+
+
+
+
+
