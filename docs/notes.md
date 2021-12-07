@@ -72,5 +72,8 @@ Current version 2.1.0
 This text is **standard** _Markdown_
 :::
 
+![](https://produits.bienmanger.com/33469-0w470h470_Organic_Fresh_Pineapple.jpg){: .shadow}
 
 
+**Note:** this is something I don't want to call attention to.
+{: .note}
