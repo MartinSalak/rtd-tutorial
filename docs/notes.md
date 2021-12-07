@@ -66,7 +66,11 @@ Current version 2.1.0
 
 
 
+:::{admonition} This *is* also **Markdown**
+:class: warning
 
+This text is **standard** _Markdown_
+:::
 
 
 
