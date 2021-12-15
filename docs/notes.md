@@ -30,7 +30,6 @@
   * indented item
   * indented item
   * indented item  
-
  <p></p>
  
 * second item
